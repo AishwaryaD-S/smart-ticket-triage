@@ -116,4 +116,7 @@ Or click the **Open in Colab** badge above — no installation needed.
 
 Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · ipywidgets · Gradio
 
+## License
+
+MIT — see [LICENSE](LICENSE).
 
